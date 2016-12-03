@@ -1,0 +1,23 @@
+{
+  "name": "aspnetcore-tests",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennybiasiolli/aspnetcore-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennybiasiolli/aspnetcore-tests/issues"
+  },
+  "homepage": "https://github.com/dennybiasiolli/aspnetcore-tests#readme",
+  "devDependencies": {
+    "generator-aspnet": "0.2.5",
+    "yo": "1.8.5"
+  }
+}
